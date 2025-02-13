@@ -1,0 +1,4 @@
+git clone https://github.com/nicolasmoreira1/bomdiaangular
+cd bomdiaangular
+dir /a
+doskey /h >Comando.txt
